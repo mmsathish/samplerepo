@@ -1,2 +1,0 @@
-hi  sathish  this is urs 1st devops session
-version2
